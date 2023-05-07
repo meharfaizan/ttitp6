@@ -7,3 +7,4 @@ https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
 Flask==2.2.2
 gunicorn==20.1.0
+https://github.com/XniceCraft/ffmpeg-colab/releases/download/5.1.1/ffmpeg
